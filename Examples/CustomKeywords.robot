@@ -11,7 +11,7 @@ Suite Teardown                  Close All Browsers
 Exercise 12 - Custom Keywords - Step 1 Grouping
     # At this point the test data in the custom keywords are fixed.
     Appstate                    Home
-    Create Lead Step 1 Grouping
+    Create Lead Step 1 Grouping 
     Verify Lead Step 1 Grouping
     Delete Lead Step 1 Grouping
 
